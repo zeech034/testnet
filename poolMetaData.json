@@ -1,6 +1,6 @@
 {
-"name": "paylend pool",
-"description": "My pool description",
-"ticker": "PAYL",
-"homepage": "https://payl.io"
+    "name": "paylend pool",
+    "description": "The paylend pool",
+    "ticker": "PAYL",
+    "homepage": "http://payl.io"
 }
